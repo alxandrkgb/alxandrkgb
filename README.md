@@ -6,7 +6,7 @@
 ### I'm Alexander, a student Frontend freelance developer 👨‍💻  
   
 
-- 🔭 I’m currently working on [PentLib](https://pentlib.netlify.app)  
+- 🔭 I’m currently working on [IllusAI](https://illusai.netlify.app)  
   
 
 - 🌱 I’m currently learning JavaScript and Frameworks  
