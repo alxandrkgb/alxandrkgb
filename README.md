@@ -64,17 +64,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alxandrkgb&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
-
+<br/>
 <br/>  
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
 
 ## Visitor Counter  
 ![Profile views counter](https://komarev.com/ghpvc/?username=alxandrkgb&&style=flat-square)  
-
   
 
 <br/>  
