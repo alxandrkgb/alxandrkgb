@@ -65,7 +65,8 @@
 
 <br/>  
 <br/>
-<br/>  
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -78,9 +79,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=alxandrkgb&&style=flat-square)  
   
 
-<br/>  
-
-
+<br/>
 
 ## Support Me  
 <div align="left">
