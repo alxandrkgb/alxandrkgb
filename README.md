@@ -1,4 +1,4 @@
-### I'm Alexander, a Frontend developer 👨‍💻  
+### <div align="center" I'm Alexander, a Frontend developer 👨‍💻 </div>
   
 
 <br/>  
