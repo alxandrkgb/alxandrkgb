@@ -1,4 +1,4 @@
-### <div align="center" I'm Alexander, a Frontend developer 👨‍💻 </div>
+### <div align="center">I'm Alexander, a front end developer 👨‍💻</div> 
   
 
 <br/>  
